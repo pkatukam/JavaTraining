@@ -28,6 +28,10 @@ public class Assessment {
 	}
 
 	class B extends Assessment {
+		private void sys() {
+			System.out.println("Test");
+
+		}
 	}
 
 }
